@@ -20,7 +20,7 @@ public class Counter {
 		count--;
 	}
 	
-	public int getCount() {
+	public inter getCount() {
 		return count;
 	}
 	
